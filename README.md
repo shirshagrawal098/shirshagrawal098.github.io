@@ -1,7 +1,7 @@
 # Shirsh Agrawal
 
-#Education
+# Education
 
-#Expertise
+# Expertise
 
-#About
+# About
